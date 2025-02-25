@@ -4,8 +4,10 @@
 // Created on: Feb 2025
 // This program calculates the circumference of a circle
 // with a diameter of 11 mm.
+
 #include <stdio.h>
 #include <math.h>
+
 int main() {
     // this function calculates the circumference of a 11 mm diameter circle
     printf("If a circle has a diameter of 11 mm: \n");
